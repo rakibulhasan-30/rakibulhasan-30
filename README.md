@@ -70,7 +70,7 @@ A proactive Statistics graduate and Data Analyst skilled in Python, R, and data 
       </td>
       <td align="center" width="80" style="padding: 4px;">
         <a href="https://www.kaggle.com/rakibulhasanshourov">
-          <img src="https://storage.googleapis.com/kagglesdsdata/datasets/45335/82809/Kaggle_logo.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20250826%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250826T083456Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=438b86bada158af0edebac73c7e3bf3753da80f67793c2f621338a40f39c72c88b3f0950a6cfa9c9ffa34b746bdc585f9a2dd5d5339c1a5e212b927e9faf51c9a3b3f247b05408f5588ec564ca15f8972aa5bb66cc66d60014e0f6fa6b4b2036d988c7fd0a5f09980abd71b6c59952e079b51fed4ce2bde95643bb953cb80bb6355100cedbb8bc36e95c6a8a909033beab4765864ba49cd8298df31dbcd583b5b1a3ca923d103ff09aede458730bf8d5007b6f3bf8cef8b590983e583ff024315075ab089d37b2b419c061644545606f22bffa72546077a9a2a6408231ba76708325c46fa86890f4b6f3026204aa9f85550d4d45ac2e50063defa9040ac153f3" width="32" alt="Kaggle" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/250px-Kaggle_Logo.svg.png" width="32" alt="Kaggle" />
         </a>
         <br /><sub><b>Kaggle</b></sub>
         <td align="center" width="80" style="padding: 4px;">
