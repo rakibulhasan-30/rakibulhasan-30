@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEufmArOesIYQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736586799538?e=1773878400&v=beta&t=EOa6BVNR6VB1-67ITANM_TZ0-ejOU9OnCShPvoozkfY" width="100%" alt="Cover Image"/>
-</p>
-
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
@@ -14,28 +10,38 @@
 </h3>
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=600&height=40&lines=Python+%7C+R+%7C+Excel+%7C+SQL+%7C+Power+BI;Turning+raw+data+into+actionable+insights;Data+Analyst+%7C+Analytics+%26+Insights+Professional" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=650&height=40&lines=Python+%7C+R+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Data+Science+%7C+Analytics;Statistics+Graduate+%7C+Aspiring+ML+Engineer" alt="Typing Animation" />
 </div>
 
 
 
 ## ✨ About Me
+## ✨ About Me
 
 <div align="center">
   <h3 style="color: #f39c12; border-bottom: 2px solid #f39c12; display: inline-block; padding-bottom: 5px;">
-    Data Analyst | Business Intelligence Specialist
+    Data Scientist | Machine Learning Enthusiast | Statistics Graduate
   </h3>
 </div>
 
 <p align="center" style="margin-top: 15px;">
-  <img src="https://img.shields.io/badge/Data_Analysis-4B5EAA?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcgMTBoMTAiLz48cGF0aCBkPSJNNyAxNGg0Ii8+PC9zdmc+" alt="Data Analyst" />
-  <img src="https://img.shields.io/badge/Power_BI-FF9F1C?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI Expert" />
+  <img src="https://img.shields.io/badge/Machine_Learning-4B5EAA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Science-FF9F1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statistics-2ECC71?style=flat-square" />
 </p>
 
 <div style="background: rgba(243, 156, 18, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin: 15px 0;">
 
+I am a Statistics graduate with a strong interest in Machine Learning and Data Science.  
+I have hands-on experience in building predictive models and have worked on healthcare-related projects such as liver disease prediction using machine learning techniques.  
+
+I enjoy working with real-world data, applying statistical methods, and developing models that provide meaningful insights.  
+Currently, I am preparing for higher studies and aiming to specialize in Machine Learning and AI-driven research.
 
 </div>
+
+
+
 
 🔍 **Mission-Driven Analyst**  
 A proactive Statistics graduate and Data Analyst skilled in Python, R, and data analysis. Experienced as a Junior Accountant Officer since Feb 2025, I am motivated to apply data-driven solutions across banking, corporate, development, and IT sectors to drive measurable business outcomes.
