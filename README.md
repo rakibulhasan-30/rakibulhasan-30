@@ -16,7 +16,6 @@
 
 
 ## ✨ About Me
-## ✨ About Me
 
 <div align="center">
   <h3 style="color: #f39c12; border-bottom: 2px solid #f39c12; display: inline-block; padding-bottom: 5px;">
@@ -32,22 +31,16 @@
 
 <div style="background: rgba(243, 156, 18, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin: 15px 0;">
 
-I am a Statistics graduate with a strong interest in Machine Learning and Data Science.  
-I have hands-on experience in building predictive models and have worked on healthcare-related projects such as liver disease prediction using machine learning techniques.  
+🔬 I am a Statistics graduate and aspiring Machine Learning researcher working on
+Machine Learning, Data Science, and predictive modeling for healthcare and real-world applications.
 
-I enjoy working with real-world data, applying statistical methods, and developing models that provide meaningful insights.  
-Currently, I am preparing for higher studies and aiming to specialize in Machine Learning and AI-driven research.
+🏢 Former Project Assistant at the Department of Statistics, Islamic University, Bangladesh
 
+📄 Project highlight:
+LiverGuard: Predicting Liver Disease with Machine Learning (Python, Gradient Boosting, 90.9% accuracy)
+
+My research and practical focus is on building predictive models and applying statistical and machine learning techniques to solve real-world problems efficiently.
 </div>
-
-
-
-
-🔍 **Mission-Driven Analyst**  
-A proactive Statistics graduate and Data Analyst skilled in Python, R, and data analysis. Experienced as a Junior Accountant Officer since Feb 2025, I am motivated to apply data-driven solutions across banking, corporate, development, and IT sectors to drive measurable business outcomes.
-
-
-</div>  
 
 ---  
 
