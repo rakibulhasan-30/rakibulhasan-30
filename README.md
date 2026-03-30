@@ -43,6 +43,17 @@ My research and practical focus is on building predictive models and applying st
 </div>
 
 ---  
+## 🎓 Education
+
+<div align="center" style="margin: 15px 0; padding: 15px; border-left: 4px solid #f39c12; background: rgba(243, 156, 18, 0.05); border-radius: 10px;">
+
+🎓 **B.Sc. in Statistics**  
+🏫 Islamic University, Bangladesh  
+
+📊 **CGPA:** 3.63 / 4.00  
+🏅 **Class Rank:** 4th out of 50 students
+
+</div>
 
 ## 🤝 Get in Touch
 
