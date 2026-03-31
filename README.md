@@ -361,16 +361,16 @@ My research and practical focus is on building predictive models and applying st
 
 ## 💻 Technology Spectrum
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan-30&layout=compact&theme=react&hide_border=true&langs_count=8" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibulhasan-30&theme=github_dark" />
 </p>
 
-<!-- Contribution Graph -->
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibulhasan-30&theme=github_dark" alt="Contribution Graph" />
-</div>
-
-</div>
+<!-- Stats + Top Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakibulhasan-30&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibulhasan-30&theme=github_dark" width="48%" />
+</p>
 
 <h2 align="center">Seeking barakah in knowledge and turning data into meaningful decisions 📊🤲</h2> 
 
