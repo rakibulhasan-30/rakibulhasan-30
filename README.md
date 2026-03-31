@@ -37,7 +37,7 @@ Machine Learning, Data Science, and predictive modeling for healthcare and real-
 🏢 Former Project Assistant at the Department of Statistics, Islamic University, Bangladesh
 
 📄 Project highlight:
-LiverGuard: Predicting Liver Disease with Machine Learning (Python, Gradient Boosting, 90.9% accuracy)
+LiverGuard: Predicting Liver Disease with Machine Learning (Python, Gradient Boosting, 91.8% accuracy)
 
 My research and practical focus is on building predictive models and applying statistical and machine learning techniques to solve real-world problems efficiently.
 </div>
