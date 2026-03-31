@@ -348,33 +348,22 @@ My research and practical focus is on building predictive models and applying st
 *Note: All certificates can be verified through the official links above.* 
 
 
-
-
 ## 📊 Activity Dashboard
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibulhasan-30&theme=react&hide_border=true" />
+</p>
 
-<!-- Streak Stats -->
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ralobulhasan-30&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="GitHub Streak" />
-</div>
-
-<!-- Profile Stats -->
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasan-30&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_title=false&include_all_commits=true&custom_title=Development+Activity" alt="GitHub Stats" />
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasan-30&show_icons=true&theme=react&hide_border=true&include_all_commits=true" />
+</p>
 
 
 ## 💻 Technology Spectrum
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
-
-<!-- Language Distribution -->
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan-30&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&exclude_repo=html-templates" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan-30&layout=compact&theme=react&hide_border=true&langs_count=8" width="50%" />
+</p>
 
 <!-- Contribution Graph -->
 <div style="flex: 1; min-width: 300px;">
